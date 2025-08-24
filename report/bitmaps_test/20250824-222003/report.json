@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_initial_state.png",
-        "test": "..\\bitmaps_test\\20250824-205142\\Calendar_initial_state.png",
+        "test": "..\\bitmaps_test\\20250824-222003\\Calendar_initial_state.png",
         "selector": "body",
         "fileName": "Calendar_initial_state.png",
         "label": "Calendar initial state",
@@ -22,16 +22,16 @@
           },
           "rawMisMatchPercentage": 1.181793212890625,
           "misMatchPercentage": "1.18",
-          "analysisTime": 41
+          "analysisTime": 50
         },
-        "diffImage": "..\\bitmaps_test\\20250824-205142\\failed_diff_Calendar_initial_state.png"
+        "diffImage": "..\\bitmaps_test\\20250824-222003\\failed_diff_Calendar_initial_state.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_day_with_hover_effect.png",
-        "test": "..\\bitmaps_test\\20250824-205142\\Calendar_day_with_hover_effect.png",
+        "test": "..\\bitmaps_test\\20250824-222003\\Calendar_day_with_hover_effect.png",
         "selector": "body",
         "fileName": "Calendar_day_with_hover_effect.png",
         "label": "Calendar day with hover effect",
@@ -49,16 +49,16 @@
           },
           "rawMisMatchPercentage": 1.194127400716146,
           "misMatchPercentage": "1.19",
-          "analysisTime": 36
+          "analysisTime": 53
         },
-        "diffImage": "..\\bitmaps_test\\20250824-205142\\failed_diff_Calendar_day_with_hover_effect.png"
+        "diffImage": "..\\bitmaps_test\\20250824-222003\\failed_diff_Calendar_day_with_hover_effect.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_starting_from_Wednesday.png",
-        "test": "..\\bitmaps_test\\20250824-205142\\Calendar_starting_from_Wednesday.png",
+        "test": "..\\bitmaps_test\\20250824-222003\\Calendar_starting_from_Wednesday.png",
         "selector": "body",
         "fileName": "Calendar_starting_from_Wednesday.png",
         "label": "Calendar starting from Wednesday",
@@ -76,16 +76,16 @@
           },
           "rawMisMatchPercentage": 1.181793212890625,
           "misMatchPercentage": "1.18",
-          "analysisTime": 39
+          "analysisTime": 42
         },
-        "diffImage": "..\\bitmaps_test\\20250824-205142\\failed_diff_Calendar_starting_from_Wednesday.png"
+        "diffImage": "..\\bitmaps_test\\20250824-222003\\failed_diff_Calendar_starting_from_Wednesday.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Calendar_with_length_of_29_days.png",
-        "test": "..\\bitmaps_test\\20250824-205142\\Calendar_with_length_of_29_days.png",
+        "test": "..\\bitmaps_test\\20250824-222003\\Calendar_with_length_of_29_days.png",
         "selector": "body",
         "fileName": "Calendar_with_length_of_29_days.png",
         "label": "Calendar with length of 29 days",
@@ -103,9 +103,9 @@
           },
           "rawMisMatchPercentage": 1.0945638020833335,
           "misMatchPercentage": "1.09",
-          "analysisTime": 38
+          "analysisTime": 47
         },
-        "diffImage": "..\\bitmaps_test\\20250824-205142\\failed_diff_Calendar_with_length_of_29_days.png"
+        "diffImage": "..\\bitmaps_test\\20250824-222003\\failed_diff_Calendar_with_length_of_29_days.png"
       },
       "status": "fail"
     }
